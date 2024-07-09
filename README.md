@@ -1,4 +1,4 @@
-# 👋 Hello! I'm [Your Name]
+# 👋 Hello! I'm Rafał
 
 Welcome to my GitHub profile! I'm a passionate **React Developer** who loves building innovative and scalable web applications. 
 
