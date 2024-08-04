@@ -37,6 +37,10 @@ Welcome to my GitHub profile! I'm a passionate **React Developer** who loves bui
 - **Tech Stack**: React, PHP
 - **Features**: Responsive design, real-time data updates, etc.
 
+### [CloneInstagram]
+
+- **Tech Stack**: React, TS, query
+- **Features**: Responsive design, real-time data updates, uploading pictures, like and save funcs, profile, editing etc.
 ---
 
 Thanks for stopping by! Feel free to reach out if you want to collaborate or just chat about tech! 😊
