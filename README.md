@@ -32,10 +32,17 @@ Welcome to my GitHub profile! I'm a passionate **React Developer** who loves bui
 
 ## 🛠️ Projects
 
+### [LufaPytanie](https://lufapytanie.pl)
+
+- **Tech Stack**: React, Node, nginx, RestAPI
+- **Features**: Responsive design, real-time data updates, payments, users, premium access, security, stats, etc.
+---
+
 ### [eMarika](https://emarika.pl)
 
 - **Tech Stack**: React, PHP
 - **Features**: Responsive design, real-time data updates, etc.
+---
 
 ### [CloneInstagram]
 
@@ -47,13 +54,16 @@ Welcome to my GitHub profile! I'm a passionate **React Developer** who loves bui
 
 - **Tech Stack**: React, Node, SQL, nginx, RestAPI
 - **Features**: Responsive design, real-time data updates, users and behaviours, logic of automatic bidding. etc.
+---
 
 ### [biuro Rachunkowe](https://onlinebiurorachunkowe.pl)
 
 - **Tech Stack**: React, Google script, query
 - **Features**: Responsive design, google reviews, newsletter, etc.
+---
 
 ### [Wypożyczalnia Kamperów](https://carboncampers.pl)
+---
 
 - **Tech Stack**: React, query, json, RESTAPI
 - **Features**: Responsive design, editing etc.
