@@ -18,16 +18,21 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** who love
 
 ###Programming languages:### 
 - JavaScript (ES6+), Java, Python, SQL
+
 **Backend:**
-  - Node.js, NestJS, REST API, Prisma, PostgreSQL
+- Node.js, NestJS, REST API, Prisma, PostgreSQL
+
 **Frontend:**
-  - React, Next.js, Material UI
+- React, Next.js, Material UI
+
 **Data Bases:**
-  - PostgreSQL, Prisma
+- PostgreSQL, Prisma
+
 **Tools and technologies:**
-  - Git, NPM, Bash, Webpack
+- Git, NPM, Bash, Webpack
+
 **Dodatkowo:**
-  - basics C++, web application architecture, real-time systems
+- basics C++, web application architecture, real-time systems
 
 ---
 
@@ -44,6 +49,20 @@ Advanced web application for sports statistics analysis and premium betting comm
   - Real-time data processing
   - User authentication and role system
   - Scalable backend architecture
+
+---
+
+### Wedding Platform *(wedding management system)* *(in development)*
+
+Full-stack application designed to manage wedding-related logistics and guest experience.
+
+- **Tech Stack:** NextJS, Node.js, NestJS, PostgreSQL, REST API  
+- **Features:**
+  - Guest list management
+  - RSVP system with status tracking
+  - Event schedule and information panel
+  - Admin dashboard for organizing wedding data
+  - Responsive design for mobile guests
 
 ---
 
