@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** who love
 **Tools and technologies:**
 - Git, NPM, Bash, Webpack
 
-**Dodatkowo:**
+**Additional:**
 - basics C++, web application architecture, real-time systems
 
 ---
