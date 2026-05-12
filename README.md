@@ -1,13 +1,13 @@
 # 👋 Hello! I'm Rafał
 
-Welcome to my GitHub profile! I'm a passionate **React Developer** who loves building innovative and scalable web applications. 
+Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** who loves building innovative and scalable web applications. 
 
 ---
 
 ## 🌟 About Me
 
-- 🔭 I’m currently working on: Building sleek and performant web apps with React.
-- 🌱 I’m currently learning: Advanced React patterns.
+- 🔭 I am currently developing the “PrimeStats” project—a comprehensive web application for analyzing sports statistics, managing data, and supporting paid areas and betting communities. The system includes, among other things, a backend API, user authentication, database integration, and features related to real-time data analysis and visualization.
+- 🌱 I’m currently learning: K8s, Advanced NestJS, Mid-Python, Mid-Java + Swing, 
 - 👯 I’m looking to collaborate on: Open source projects that make the web a better place.
 - 💬 Ask me about: Anything related to React, JavaScript, or web development in general.
 - 📫 How to reach me: [rafaldruzba.00@gmail.com](mailto:rafaldruzba.00@gmail.com)
@@ -16,57 +16,142 @@ Welcome to my GitHub profile! I'm a passionate **React Developer** who loves bui
 
 ## 🚀 Skills & Tools
 
-### Frontend
-
-- **Languages**: JavaScript (ES6+), HTML5, CSS3
-- **Frameworks & Libraries**: React, Redux, Next.js, Tailwind CSS, Material-UI, 3js (during education)
-- **Tools**: Webpack, NPM, Git
-
-### Backend
-
-- **Languages**: Node.js (during education)
-- **Frameworks & Libraries**: Express.js
-- **Databases**: MongoDB, PostgreSQL
+###Programming languages:### 
+- JavaScript (ES6+), Java, Python, SQL
+**Backend:**
+  - Node.js, NestJS, REST API, Prisma, PostgreSQL
+**Frontend:**
+  - React, Next.js, Material UI
+**Data Bases:**
+  - PostgreSQL, Prisma
+**Tools and technologies:**
+  - Git, NPM, Bash, Webpack
+**Dodatkowo:**
+  - basics C++, web application architecture, real-time systems
 
 ---
 
 ## 🛠️ Projects
 
-### [LufaPytanie](https://lufapytanie.pl)
+### PrimeStats *(in development)*
 
-- **Tech Stack**: React, Node, nginx, RestAPI
-- **Features**: Responsive design, real-time data updates, payments, users, premium access, security, stats, etc.
+Advanced web application for sports statistics analysis and premium betting communities management.
+
+- **Tech Stack:** NestJS, React, PostgreSQL, Prisma, Redis, REST API
+- **Features:**
+  - Sports statistics dashboards
+  - Premium tipping rooms and subscriptions
+  - Real-time data processing
+  - User authentication and role system
+  - Scalable backend architecture
+
 ---
 
-### [eMarika](https://emarika.pl)
+### [QUXI](https://quxi.pl) - private
 
-- **Tech Stack**: React, PHP
-- **Features**: Responsive design, real-time data updates, etc.
+Online auction platform with automatic bidding system and real-time user interactions.
+
+- **Tech Stack:** React, Node.js, SQL, REST API, Nginx
+- **Features:**
+  - User authentication and account management
+  - Automatic bidding system
+  - Real-time updates and auction logic
+  - Responsive UI/UX
+  - Backend and database optimization
+
 ---
 
-### [CloneInstagram]
+### Crypto Analysis Tools *(expired)*
 
-- **Tech Stack**: React, TS, query
-- **Features**: Responsive design, real-time data updates, uploading pictures, like and save funcs, profile, editing etc.
+Projects focused on cryptocurrency market analysis and real-time data processing.
+
+- **Tech Stack:** Python, Node.js, PostgreSQL, APIs
+- **Features:**
+  - Crypto market data analysis
+  - API integrations
+  - Real-time price tracking
+  - Data processing and automation scripts
+
 ---
 
-### [QUXI](https://quxi.pl)
+### [LufaPytanie](https://lufapytanie.pl) *(expired)*
 
-- **Tech Stack**: React, Node, SQL, nginx, RestAPI
-- **Features**: Responsive design, real-time data updates, users and behaviours, logic of automatic bidding. etc.
+Community-based platform with premium access system and statistics features.
+
+- **Tech Stack:** React, Node.js, REST API, Nginx
+- **Features:**
+  - Authentication system
+  - Premium memberships
+  - Payments integration
+  - Real-time updates
+  - Statistics and admin features
+
 ---
 
-### [biuro Rachunkowe](https://onlinebiurorachunkowe.pl)
+### [eMarika](https://www.emarika.pl)
 
-- **Tech Stack**: React, Google script, query
-- **Features**: Responsive design, google reviews, newsletter, etc.
+Business website developed for an online brand.
+
+- **Tech Stack:** React, PHP
+- **Features:**
+  - Responsive design
+  - Dynamic content management
+  - Optimized performance
+
 ---
 
-### [Wypożyczalnia Kamperów](https://carboncampers.pl)
+### CloneInstagram *(educational project)*
+
+Social media application inspired by Instagram.
+
+- **Tech Stack:** React, TypeScript, React Query
+- **Features:**
+  - User profiles
+  - Uploading photos
+  - Likes and saved posts
+  - Profile editing
+  - Responsive UI
+
 ---
 
-- **Tech Stack**: React, query, json, RESTAPI
-- **Features**: Responsive design, editing etc.
+### [Axis-events](https://axis-events.pl)
 
+Business website for an accounting office.
 
-Thanks for stopping by! Feel free to reach out if you want to collaborate or just chat about tech! 😊
+- **Tech Stack:** React, Node, n8n, 
+- **Features:**
+  - Responsive design
+  - N8n automation integration
+  - Google Calendar reservations
+  - Dynamic forms
+  - Facebook Pixel - Ads
+
+---
+
+### [Online Biuro Rachunkowe](https://onlinebiurorachunkowe.pl)
+
+Business website for an accounting office.
+
+- **Tech Stack:** React, Google Scripts, React Query
+- **Features:**
+  - Responsive design
+  - Google reviews integration
+  - Newsletter system
+  - Dynamic forms
+
+---
+
+### [Carbon Campers](https://carboncampers.pl)
+
+Modern camper rental website.
+
+- **Tech Stack:** React, REST API, React Query, JSON
+- **Features:**
+  - Responsive design
+  - Camper listings
+  - Content management
+  - API integrations
+
+---
+
+Always happy to connect, collaborate on projects, or talk tech. 😊
