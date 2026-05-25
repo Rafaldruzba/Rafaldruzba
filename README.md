@@ -56,7 +56,7 @@ Advanced web application for sports statistics analysis and premium betting comm
 
 Full-stack application designed to manage wedding-related logistics and guest experience.
 
-- **Tech Stack:** NextJS, Node.js, NestJS, PostgreSQL, REST API  
+- **Tech Stack:** NextJS, Node.js, NestJS, PostgreSQL, REST API, RabbitMQ
 - **Features:**
   - Guest list management
   - RSVP system with status tracking
