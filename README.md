@@ -1,4 +1,4 @@
-# https://github.com/ORGMRI [https://github.com/ORGMRI]
+# https://github.com/ORGMRI
 
 # 👋 Hello! I'm Rafał
 
