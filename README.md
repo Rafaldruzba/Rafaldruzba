@@ -56,6 +56,8 @@ Advanced full-stack enterprise platform designed for organizational intelligence
   - Real-time data processing and graph-based data relationships using Neo4j and TimescaleDB
   - Secure integrations with external APIs (Jira, GitHub, Slack) for unified workflow tracking
 
+---
+
 ### PrimeStats *(in development)*
 
 Advanced web application for sports statistics analysis and premium betting communities management.
