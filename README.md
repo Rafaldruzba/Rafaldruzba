@@ -1,4 +1,4 @@
-# https://github.com/ORGMRI
+# [ORGMRI](https://github.com/ORGMRI) - Owner
 
 # 👋 Hello! I'm Rafał
 
@@ -8,18 +8,21 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** who love
 
 ## 🌟 About Me
 
-- 🔭 I am currently developing the “PrimeStats” project—a comprehensive web application for analyzing sports statistics, managing data, and supporting paid areas and betting communities. The system includes, among other things, a backend API, user authentication, database integration, and features related to real-time data analysis and visualization.
-- 🌱 I’m currently learning: K8s, Advanced NestJS, Mid-Python, Mid-Java + Swing, 
-- 👯 I’m looking to collaborate on: Open source projects that make the web a better place.
-- 💬 Ask me about: Anything related to React, JavaScript, or web development in general.
-- 📫 How to reach me: [rafaldruzba.00@gmail.com](mailto:rafaldruzba.00@gmail.com)
+- 🔭 I am currently developing the OrgMRI project—an advanced "Organizational Intelligence" web application and decision flow intelligence system. The architecture features a microservices approach built on an Event-Driven model, utilizing a robust stack including NestJS, Next.js, TypeScript, PostgreSQL, TimescaleDB, and a Neo4j graph database. It includes tenant isolation (multi-tenancy), advanced RBAC, and secure integrations with external APIs (Jira, GitHub, Slack).
+
+- 🌱 I’m currently learning: K8s, Advanced NestJS, Mid-Python, Mid-Java + Swing,
+
+- 👯 I’m looking to collaborate on: Open source projects that make the web a better place.  
+
+- 💬 Ask me about: Anything related to React, JavaScript, or web development in general.  
+
+- 📫 How to reach me: rafaldruzba.00@gmail.com
 
 ---
 
 ## 🚀 Skills & Tools
 
 ##Programming languages:##
-- JavaScript (ES6+), Java, Python, SQL
 
 **Backend:**
 - Redis, Node.js, NestJS, REST API, Prisma, PostgreSQL
@@ -39,6 +42,19 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** who love
 ---
 
 ## 🛠️ Projects
+
+### ORGMRI (Organizational Intelligence & Decision Flow System) *(in development)*
+
+Advanced full-stack enterprise platform designed for organizational intelligence, data analysis, and workflow visualization.
+
+- **Tech Stack:** Next.js, React, Node.js, NestJS, TypeScript, PostgreSQL, TimescaleDB, Neo4j, Event-Driven Architecture, REST API
+
+- **Features:**
+  - Microservices-based backend architecture utilizing an Event-Driven model
+  - Multi-tenant isolation for secure data partitioning between organizations
+  - Advanced Role-Based Access Control (RBAC) for granular permission management
+  - Real-time data processing and graph-based data relationships using Neo4j and TimescaleDB
+  - Secure integrations with external APIs (Jira, GitHub, Slack) for unified workflow tracking
 
 ### PrimeStats *(in development)*
 
