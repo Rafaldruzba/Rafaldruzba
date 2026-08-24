@@ -72,7 +72,7 @@ Advanced web application for sports statistics analysis and premium betting comm
 
 ---
 
-### Wedding Platform *(wedding management system)* *(in development)*
+### Wedding Platform *(wedding management system)* *(in development)* [here](https://frontend-production-9f59.up.railway.app/)
 
 Full-stack application designed to manage wedding-related logistics and guest experience.
 
